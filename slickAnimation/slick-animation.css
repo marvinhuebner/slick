@@ -1,5 +1,3 @@
-$hallo: green;
-
 #content {
   width: 1000px;
   margin: 0 auto;
@@ -9,4 +7,3 @@ $hallo: green;
   background-color: grey;
   padding: 30px;
 }
-
