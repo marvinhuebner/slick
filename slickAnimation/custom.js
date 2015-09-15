@@ -1,6 +1,6 @@
 var sliderInit = $('.slick-slider-init');
 
-$(document).ready(function(){
+$(document).ready(function () {
 
     sliderInit.slick({
         autoplay: false,
@@ -9,4 +9,5 @@ $(document).ready(function(){
         autoplaySpeed: 6000
     });
 
+    sliderInit.slickAnimation();
 });
