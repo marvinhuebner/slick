@@ -1,1 +1,5 @@
 .sass-cache
+
+.idea
+.zip
+node_modules
